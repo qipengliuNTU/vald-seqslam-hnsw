@@ -1,4 +1,4 @@
-# vald-seqslam-hnsw
+# vlad-seqslam-hnsw
 
 This repo contains code of our submitted paper. 
 
